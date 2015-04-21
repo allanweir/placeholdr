@@ -104,7 +104,5 @@
 	$(function(){
 		$(document).placeholdr();
 	});
-
-	// Add default CSS rule
-	document.write("<style>.placeholdr{color:#AAA;}</style>");
+	
 })(jQuery, "placeholdr", "placeholder", "placeholdrVal");
