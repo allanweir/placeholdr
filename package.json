@@ -15,5 +15,17 @@
   ],
   "author": "Shane Carr",
   "license": "X11",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "main": "placeholdr.js",
+  "scripts": [
+    "placeholdr.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples"
+  ]
 }
